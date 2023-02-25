@@ -9,9 +9,9 @@ commands = '''
 '''
 soursce = '''
 𝐬𝐨𝐮𝐫𝐜𝐞 𝐛𝐡𝐭𝐡𝐨𝐧 
-Dev : abnBashar
-Dev : @myAbnBashar 
-Source Ch : @BHthon
+Dev : Bashar
+Dev : @IIIYYTAam 
+Source Ch : @alskanw
 '''
 trans = '''
 .ترجمة الى + اللغة
@@ -112,7 +112,7 @@ tele_checker = '''
 
 .الانواع  : لمعرفة انواع اليوزرات 
 
-المطور - @myAbnBashar - @bhthon**
+المطور - @IIIYYTAam - @alskanw**
 '''
 tele_checker2 = '''
 **: 𝐬𝐨𝐮𝐫𝐜𝐞 𝐛𝐡𝐭𝐡𝐨𝐧
@@ -132,7 +132,7 @@ tele_checker2 = '''
 _______________________________________________________
  طريقه الصيد = صيد + عدد + نوع الصيد + يوزر قناتك
 
-Programming = @myAbnBashar @Bhthon**
+Programming = @IIIYYTAam @alskanw**
 _______________________________________________________
 '''
 t06bot = '''
