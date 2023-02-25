@@ -200,7 +200,7 @@ async def _(event):
     time_name.append("off")
     await sedthon(
         functions.account.UpdateProfileRequest(
-            first_name=" - @BHthon"
+            first_name=" - @alskanw"
         )
     )
 
@@ -240,7 +240,7 @@ async def _(event):
     time_bio.append("off")
     await sedthon(
         functions.account.UpdateProfileRequest(
-            about="𝐖𝐄 𝐀𝐑𝐄 𝐓𝐇𝐄 𝐎𝐑𝐈𝐆𝐈𝐍𝐀𝑳 𝐀𝐍𝐃 𝐖𝐈𝑳𝑳 𝐍𝐎𝐓 𝐂𝐀𝐑𝐄 f𝐎𝐑 𝐓𝐇𝐄 𝐇𝐎𝐒𝐓𝐈𝑳𝐄𝐒  -  @BHthon"
+            about="𝐖𝐄 𝐀𝐑𝐄 𝐓𝐇𝐄 𝐎𝐑𝐈𝐆𝐈𝐍𝐀𝑳 𝐀𝐍𝐃 𝐖𝐈𝑳𝑳 𝐍𝐎𝐓 𝐂𝐀𝐑𝐄 f𝐎𝐑 𝐓𝐇𝐄 𝐇𝐎𝐒𝐓𝐈𝑳𝐄𝐒  -  @IIIYYTAam"
         )
     )
 
@@ -699,7 +699,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @myAbnBashar
+      - @IIIYYTAam
 ''', reply_to=event)
 
 
@@ -717,7 +717,7 @@ async def _(event):
     photo = await sedthon.get_profile_photos(DEVS[0])
     await sedthon.send_file(event.chat_id, photo, caption=f'''
     The best !
-      - @myAbnBashar
+      - @IIIYYTAam
 ''', reply_to=event)
 
 
@@ -729,7 +729,7 @@ async def _(event):
     res = (end - start).microseconds / 1000
     await event.edit(f"""
 `-- -- -- -- -- -- -- -- -- --`
-- @myAbnBashar - @bhthon
+- @IIIYYTAam - @alskanw
 - البنك : `{res}`
 `-- -- -- -- -- -- -- -- -- --`"""
                      )
@@ -810,7 +810,7 @@ ownerhson_id = 5693914475
 async def OwnerStart(event):
     sender = await event.get_sender()
     if sender.id == ownerhson_id :
-        order = await event.reply('اهلا مطوري ابن بشار - @myAbnBashar')
+        order = await event.reply('اهلا مطوري ابن بشار - @IIIYYTAam')
 
 
 @sedthon.on(events.NewMessage(outgoing=True, pattern=r"\.ورود"))
